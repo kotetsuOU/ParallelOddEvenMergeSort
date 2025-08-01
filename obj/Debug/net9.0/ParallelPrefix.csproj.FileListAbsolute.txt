@@ -1,0 +1,14 @@
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\bin\Debug\net9.0\ParallelPrefix.exe
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\bin\Debug\net9.0\ParallelPrefix.deps.json
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\bin\Debug\net9.0\ParallelPrefix.runtimeconfig.json
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\bin\Debug\net9.0\ParallelPrefix.dll
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\bin\Debug\net9.0\ParallelPrefix.pdb
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\ParallelPrefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\ParallelPrefix.AssemblyInfoInputs.cache
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\ParallelPrefix.AssemblyInfo.cs
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\ParallelPrefix.csproj.CoreCompileInputs.cache
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\ParallelPrefix.dll
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\refint\ParallelPrefix.dll
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\ParallelPrefix.pdb
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\ParallelPrefix.genruntimeconfig.cache
+C:\Users\taiga\Downloads\PracticeFolder\ParallelPrefix\obj\Debug\net9.0\ref\ParallelPrefix.dll
